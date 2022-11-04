@@ -6,7 +6,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Hello World</h1>
-	<img src='luffy.gif' />
+	<h1>Hello Luffy</h1>
+	<img src='luffy.gif' style="width: 100px"/>
 </body>
 </html>
